@@ -1,0 +1,25 @@
+/* Barlow Font */
+@font-face {
+    font-family: 'barlowbold';
+    src: url('barlow-bold.woff2') format('woff2'),
+         url('barlow-bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'barlowregular';
+    src: url('barlow-regular.woff2') format('woff2'),
+         url('barlow-regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* Lato Font */
+@font-face {
+    font-family: 'latoregular';
+    src: url('lato-regular.woff2') format('woff2'),
+         url('lato-regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
