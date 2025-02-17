@@ -27,7 +27,7 @@ http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
 Barlow: https://fonts.google.com/specimen/Barlow
 Lato: https://fonts.google.com/specimen/Lato
 
-Google fonts are locally hosted. Barlow theme includes the Barlow and Lato font but not all font weights or variations. If you require more font options, we recommend using https://wordpress.org/plugins/olympus-google-fonts/
+Google fonts are locally hosted. Barlow theme includes the Barlow and Lato font but not all font weights or variations.
 
 == Image Credits ==
 
@@ -38,6 +38,11 @@ License: https://creativecommons.org/publicdomain/zero/1.0/
 https://stocksnap.io/photo/nature-mountains-VX0AFDJ01M
 
 == Changelog ==
+= 1.2.5 =
+* updated Font Awesome
+* updated social media links
+* theme maintenance
+
 = 1.2.4 =
 * theme maintenance
 
