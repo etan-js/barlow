@@ -132,7 +132,7 @@ function barlow_scripts() {
 	wp_enqueue_style( 'barlow-style', get_stylesheet_uri() );
 
 	// Font Awesome
-	wp_register_style( 'font-awesome', get_stylesheet_directory_uri() . '/assets/fonts/css/all.min.css', array(), '20220218' );
+	wp_register_style( 'font-awesome', get_stylesheet_directory_uri() . '/assets/fonts/fontawesome/css/all.min.css', array(), '20220218' );
 	wp_enqueue_style( 'font-awesome' );
 
 	// Google Fonts
