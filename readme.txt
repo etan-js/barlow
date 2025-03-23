@@ -1,17 +1,13 @@
 == Barlow WordPress Theme ==
 A simple theme that is perfect for personal blogs.
 
-Barlow was designed and developed by Refueled: https://refueled.net/barlow. Barlow, like WordPress, is licensed under the GPL.
+Barlow was designed and developed by Refueled: https://refueled.net/.
 
 == Requirements ==
 
 Requires at least: WordPress 6.4+
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
-
-== Theme Support ==
-
-Barlow is a free theme, but support is not. If you require priority support, you can purchase Barlow here: https://refueled.net/barlow
 
 == Credits ==
 
